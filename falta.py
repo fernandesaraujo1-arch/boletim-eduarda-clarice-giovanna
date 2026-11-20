@@ -6,7 +6,4 @@ def falta(m):
     Ex.: falta(50) -> 10
     """
     # complete aqui: troque o return "?" pelo if
-    if m >= 60:
-        return 0
-    else:
-        return 60 - m
+    return "?"
